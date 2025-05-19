@@ -15,6 +15,4 @@ for this guide i am going to use:-
 for more info check sys.info;)
 
 
-now let's write our first program in assmebly
-
-aim: to make our program exit with exitcode 0.
+now let's write our first program in assmebly.
