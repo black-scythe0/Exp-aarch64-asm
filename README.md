@@ -21,6 +21,6 @@ for requirements see [dependencies](https://github.com/black-scythe0/Exp-aarch64
 
 now let's write our first program in assmebly.
 
-[>>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
+[Next >>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
 
 ---
