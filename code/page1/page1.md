@@ -49,7 +49,7 @@ let's see what was the exit code of our program.
 congrat's our first program  ran and it returned exit code 0
 
 but let's do a double check to see that it realy is what it seems to be
-```
+```bash
 ~ $ strace ./exit
 execve("/data/data/com.termux/files/home/exes/exit", ["/data/data/com.termux/files/home"...], 0x7fcc31e568 /* 43 vars */) = 0
 exit(0)                                 = ?
