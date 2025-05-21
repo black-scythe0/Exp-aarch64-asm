@@ -1,4 +1,4 @@
----
+
 # Exp-aarch64-asm
 
 this can be considered as a guide to **aarch64 asm**.
@@ -21,6 +21,6 @@ for requirements see [dependencies](https://github.com/black-scythe0/Exp-aarch64
 
 now let's write our first program in assmebly.
 
-[Next](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
+[>>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
 
 ---
