@@ -1,7 +1,7 @@
 
 # Exp-aarch64-asm
 
-this can be considered as a guide to **aarch64 asm**.
+this can be **considered** as a **guide** to **aarch64 asm**.
 
 the focus is to explore the aarch64 asm in a realy **practical** way .
 
@@ -19,7 +19,7 @@ for my sysinfo see [sys.info;)](https://github.com/black-scythe0/Exp-aarch64-asm
 for requirements see [dependencies](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/dependencies/dependencies.md)
 
 
-now let's write our first program in assmebly.
+now let's write our first **program** in **assmebly**.
 
 [Next >>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
 
