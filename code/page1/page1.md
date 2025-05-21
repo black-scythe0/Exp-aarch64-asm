@@ -17,23 +17,23 @@ _start:
 
 let's generate a object file with the GNU assembler (as).
 
-```
+```bash
 ~ $ as -o exit.o exit.s
 ```
 
 link it with linker ld
 
-```
+```bash
 ~ $ ld -o exit exit.o
 ```
 
 let's run it.
-```
+```bash
 ~ $ ./exit
 ```
 
 boom.
-```
+```bash
 ~ $ 
 ```
 
@@ -42,7 +42,7 @@ but there arn't any error messages so it executed without any problem.
 
 let's see what was the exit code of our program.
 
-```
+```bash
 ~ $ echo $?
     0
 ```
