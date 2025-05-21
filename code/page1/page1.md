@@ -5,7 +5,7 @@ it call's the syscall exit give it exit code
 tell the os to take over.
 
 
-```
+```asm
 .section .text
 .global _start
 _start:
