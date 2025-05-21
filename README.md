@@ -12,8 +12,12 @@ for this guide i am going to use:-
 4. gnu 'ld' linker
 5. strace
 
-for my sysinfo see [sys.info;)](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/sys.info) 
+for my sysinfo see [sys.info;)](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/sys.info)
+
+
 for requirements see [dependencies](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/dependencies/dependencies.md)
+
+
 now let's write our first program in assmebly.
 
 [Next](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
