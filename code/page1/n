@@ -1,0 +1,3 @@
+execve("/data/data/com.termux/files/home/exes/exit", ["/data/data/com.termux/files/home"...], 0x7fcc31e568 /* 43 vars */) = 0
+exit(1)                                 = ?
++++ exited with 1 +++
