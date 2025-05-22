@@ -1,7 +1,9 @@
 # let's start:
 
-below is the simple asm code
+below is the simple asm code.
+
 it call's the syscall exit give it exit code
+
 tell the os to take over.
 
 
@@ -38,7 +40,10 @@ boom.
 ```
 
 nothing happened ?
-but there arn't any error messages so it executed without any problem.
+
+but there arn't any error's either.
+
+which means executed without any problem.
 
 let's see what was the exit code of our program.
 
