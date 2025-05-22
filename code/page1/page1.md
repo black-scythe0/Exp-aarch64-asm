@@ -11,9 +11,9 @@ tell the os to take over.
 .section .text
 .global _start
 _start:
-    mov x8, 93   # call syscall exit.
-    mov x0, 0    # give it exit code 0.
-    svc 0        # tell os to take over
+    mov x8, 93   // call syscall exit.
+    mov x0, 0    // give it exit code 0.
+    svc 0        // tell os to take over
 
 ```
 
