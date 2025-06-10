@@ -16,7 +16,7 @@ now we can use add instruction to add.
 now sum of 1 and 2 is in x2
 only thing remaining is to verify it.
 
-we know how to call exxit syscall and give it a value to exit with.
+we know how to call exit syscall and give it a value to exit with.
 
 
 ```asm
