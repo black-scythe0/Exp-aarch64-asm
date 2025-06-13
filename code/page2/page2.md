@@ -41,4 +41,43 @@ _start:
 
 ```
 
+now let's run it (to see if it works)
+
+```sh
+~$ as -o add.o add.s
+~$
+
+```
+
+no erros it generated a object file , let's link it
+
+
+```sh
+~$ ld -o add add.o
+~$ 
+
+```
+
+it linked successfully !!
+
+now it is time to run it.
+
+fingers crossed.
+
+
+```sh
+~$ ./add
+```
+
+ok no problem .
+
+let's check what it returned.
+
+
+```sh
+~$ echo $?
+~$ 3
+```
+Success !!!!
+
 [<<Previous](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
