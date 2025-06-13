@@ -3,5 +3,8 @@
 pkg install binutils
 pkg install strace
 ```
-...
+
+
+
+
 ---
