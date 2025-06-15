@@ -63,5 +63,5 @@ exit(0)                                 = ?
 
 so now we have confirmed that it did exited with  0.
 ---
-[<< Previous](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/README.md)
-[Next>>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page2/page2.md)
+[<< Previous](/README.md)
+[Next>>](code/page2/page2.md)
