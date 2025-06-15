@@ -80,4 +80,4 @@ let's check what it returned.
 ```
 Success !!!!
 
-[<<Previous](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
+[<<Previous](/code/page1/page1.md)
