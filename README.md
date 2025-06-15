@@ -13,13 +13,13 @@ for this guide i am going to use:-
 4. gnu **ld** linker
 5. **strace**
 
-for my sysinfo see [sysinfo](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/sys.info)
+for my sysinfo see [sysinfo](sys.info)
 
 
-for requirements see [dependencies](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/dependencies/dependencies.md)
+for requirements see [dependencies](dependencies/dependencies.md)
 
 
 now let's write our first **program** in **assmebly**.
 ---
-[Next >>](https://github.com/black-scythe0/Exp-aarch64-asm/blob/main/code/page1/page1.md)
+[Next >>](code/page1/page1.md)
 
