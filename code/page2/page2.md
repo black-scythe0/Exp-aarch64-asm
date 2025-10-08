@@ -9,7 +9,7 @@ you mov a value in register (in our case **x1**).
 ```
 now we can use add instruction to add.
 ```asm
-    add x2, x1 , 2  // 1 + 2
+    add x2, x1 , 2  // x2 = 1 + 2 (sort of)
 ```
 
 
@@ -49,7 +49,9 @@ now let's run it (to see if it works)
 
 ```
 
-no erros it generated a object file , let's link it
+no errors
+it generated a object file 
+Now we shall link it.
 
 
 ```sh
@@ -60,7 +62,7 @@ no erros it generated a object file , let's link it
 
 it linked successfully !!
 
-now it is time to run it.
+Now, the time we see if our code works has come.
 
 fingers crossed.
 
